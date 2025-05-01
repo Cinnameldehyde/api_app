@@ -14,7 +14,7 @@ A modern React Native mobile application for browsing and bookmarking job listin
 - 🔄 Real-time bookmark synchronization
 
 ## Screenshots
-
+(demo.mp4)
 ### Job Listings and Details
 ![Job Listings](screenshots/Job_Listing.jpeg)
 *Main screen showing job listings with premium/regular indicators and bookmark functionality*
