@@ -13,27 +13,36 @@ A modern React Native mobile application for browsing and bookmarking job listin
 - 📊 Premium job filtering
 - 🔄 Real-time bookmark synchronization
 
-## Screenshots
-(demo.mp4)
+## Screenshots and Videos
+
+### Demo Video
+![Demo Video](screenshots/demo.mp4)
+
 ### Job Listings and Details
 ![Job Listings](screenshots/Job_Listing.jpeg)
+
 *Main screen showing job listings with premium/regular indicators and bookmark functionality*
 
 ![Job Details](screenshots/Job_details1.jpeg)
+
 *Detailed job information with company details and requirements*
 
 ![Job Details Extended](screenshots/Job_details2.jpeg)
+
 *Extended job information showing salary, location, and contact options*
 
 ### Bookmarks and Navigation
 ![Bookmarked Jobs](screenshots/Bookmarked_Jobs.jpeg)
+
 *Bookmarked jobs screen showing saved opportunities*
 
 ### Additional Details
 ![Additional Details](screenshots/Job_details3.jpeg)
+
 *Job posting details with application statistics and contact options*
 
 ![Detailed View](screenshots/Job_details1_1.jpeg)
+
 *Comprehensive job information with qualification requirements*
 
 ### Key Features Shown:
